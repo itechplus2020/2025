@@ -1,0 +1,5 @@
+Bitcoin is a protocol which implements a highly available, public, and decentralized ledger. In order to update the ledger, a user must prove they control an entry in the ledger. The protocol specifies that the entry indicates an amount of a token, bitcoin with a miniscule b. The user can update the ledger, assigning some of their bitcoin to another entry in the ledger.
+
+Bitcoin transactions are verified by network nodes through cryptography and recorded in a public distributed ledger called a blockchain. The cryptocurrency was invented in 2008 by an unknown person or group of people using the name Satoshi Nakamoto. The currency began use in 2009, when its implementation was released as open-source software.  The word "bitcoin" was defined in a white paper published on October 31, 2008. It is a compound of the words bit and coin.
+
+https://en.wikipedia.org/wiki/Bitcoin
